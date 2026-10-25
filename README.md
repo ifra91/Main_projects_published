@@ -7,3 +7,8 @@
 3. Google Clone
    https://ifra91.github.io/google-clone
    https://ifra91.github.io/google-clone/index-404.html
+4. Java Script Tutorial Projects
+      1. https://ifra91.github.io/JavaScriptTutorial/Project/IncrementCounter/
+      2. https://ifra91.github.io/JavaScriptTutorial/Project/Quotes/
+      3.https://ifra91.github.io/JavaScriptTutorial/Project/TemperatureConverter/   
+   
